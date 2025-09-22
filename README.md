@@ -1,4 +1,4 @@
-<div style="text-align: center;"># Hi 👋, I'm Zerom</div>
+# Hi 👋, I'm Zerom</div>
 
 
 ###
