@@ -26,7 +26,8 @@
 
 
  [![Discord](https://i.ibb.co/4Zv4BTnv/Screenshot-from-2025-09-23-00-42-18.png)]
-                                                                            
+ 
+ ## Languages and Tools:                                                                           
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
