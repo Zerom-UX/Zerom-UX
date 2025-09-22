@@ -7,9 +7,9 @@
  ## <p align="center"> </ Programmer>
 ![](https://github-profile-trophy.vercel.app/?username=Zerom-UX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
--🔭 I’m currently working on Discord.py
+- 🔭 I’m currently working on Discord.py
 
--🌱 I’m currently learning Python,Html
+- 🌱 I’m currently learning Python,Html
 
 -🤝 I’m currently working on discord projects Discord Tools And Discord Bot
 
