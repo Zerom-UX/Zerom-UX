@@ -7,19 +7,19 @@
  ## <p align="center"> </ Programmer>
 ![](https://github-profile-trophy.vercel.app/?username=Zerom-UX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🔭 I’m currently working on Discord.py
+-🔭 I’m currently working on Discord.py
 
-🌱 I’m currently learning Python,Html
+-🌱 I’m currently learning Python,Html
 
-🤝 I’m currently working on discord projects Discord Tools And Discord Bot
+-🤝 I’m currently working on discord projects Discord Tools And Discord Bot
 
-👨‍💻 All of my projects are available at My Repository
+-👨‍💻 All of my projects are available at My Repository
 
-💬 Ask me about Discord Bots
+-💬 Ask me about Discord Bots
 
-📫 Email to reach me TheAxes@proton.me
+-📫 Email to reach me TheAxes@proton.me
 
-⚡ Fun fact I am Best
+-⚡ Fun fact I am Best
                                                                             
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
