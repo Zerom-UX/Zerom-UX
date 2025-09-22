@@ -5,7 +5,6 @@
 
 
  ## <p align="center"> </ Programmer>
- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zerom-UX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
                                                                             
 <div align="center">
