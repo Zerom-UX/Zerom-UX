@@ -4,7 +4,7 @@
 ###
 
 
- ##                                               </ Programmer>
+ ## <p align="center"> </ Programmer>
                                                                             
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
