@@ -22,7 +22,7 @@
 - ⚡ Fun fact I am Best
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pZYS8KDSV5) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ZionistFucker5000) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TchZerom) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pZYS8KDSV5) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ZionistFucker5000) [![YouTube]([https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg))](https://youtube.com/@TchZerom) 
 
   [![Discord](https://i.ibb.co/4Zv4BTnv/Screenshot-from-2025-09-23-00-42-18.png)]
                                                                             
