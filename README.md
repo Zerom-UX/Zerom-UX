@@ -1,4 +1,4 @@
-## Hi 👋, I'm Zerom
+# Hi 👋, I'm Zerom
 
 
 <!--
