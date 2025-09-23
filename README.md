@@ -17,7 +17,7 @@
 
 - 💬 Ask me about Discord Bots
 
-- 📫 Email to reach me TheAxes@proton.me
+- 📫 Email to reach me Zerom@proton.me
 
 - ⚡ Fun fact I am Best
 
