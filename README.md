@@ -25,7 +25,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/pZYS8KDSV5) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ZionistFucker5000) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TchZerom) 
 
 
- ![Discord]( https://i.ibb.co/n862CXym/Screenshot-from-2025-09-23-13-28-59.png)
+ ![Discord]( [https://i.ibb.co/n862CXym/Screenshot-from-2025-09-23-13-28-59.png](https://i.postimg.cc/NjMp5tRz/Screenshot-from-2025-10-30-23-58-18.png))
  
  ## </> Languages and Tools:                                                                           
 <div align="center">
